@@ -1,0 +1,44 @@
+[
+    {
+        "thumbnail": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/machine_learning_developer_logo_160920145824.png",
+        "title": "Machine Learning Developer",
+        "description": "Kurikulum lengkap yang disusun oleh Dicoding bersama IBM dan Google beserta pelaku industri. Siswa dipersiapkan untuk menjadi Machine Learning Developer sesuai standar kebutuhan industri",
+        "konten":"Seorang Machine Learning Developer adalah pakar dalam menggunakan data untuk model pelatihan. Model-model tersebut kemudian digunakan untuk mengotomatisasi proses seperti klasifikasi gambar, pengenalan suara, dan perkiraan pasar. Sering kali ada penggabungan dengan peran data scientist atau artificial intelligence (AI) engineer.Machine learning adalah subbidang AI yang berfokus pada analisis data untuk menemukan hubungan antara input dan output yang diinginkan. Seorang pengembang pemelajaran mesin harus mampu menghasilkan solusi yang dibuat khusus untuk setiap masalah dan mencapai hasil optimal dengan hati-hati memproses data dan memilih algoritma terbaik untuk konteks yang diberikan.\n\nKurikulum Machine Learning di Dicoding telah dikembangkan langsung bersama IBM dan Google menggunakan kurikulum resmi dari masing-masing perusahaan. Setiap langkah dalam learning path ini telah didesain agar siswa dapat memiliki pengetahuan yang cukup untuk menjadi seorang Machine Learning Developer yang dapat memenuhi kebutuhan industri.",
+        "totalkelas": 4
+    },
+    {
+        "thumbnail": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/android_developer_logo_170920110556.png",
+        "title": "Android Developer",
+        "description": "Kurikulum didesain oleh Dicoding sebagai satu-satunya Google Developers Authorized Training Partner di Indonesia. Siswa dipersiapkan untuk menjadi Android Developer berstandar global Google",
+        "konten":"Seorang Android Developer adalah Software Developer yang berspesialisasi dalam merancang dan membangun aplikasi untuk pasar operating system Android. Menurut Google, sebagai pemilik dari Android, seorang Android Developer harus memiliki keahlian dalam app functionality, user interface, data management, debugging dan testing. Mereka juga memiliki kemampuan dengan setidaknya bahasa pemrograman Java atau Kotlin walaupun industri merekomendasikan seorang Android Developer dapat menggunakan keduanya. Dan saat ini penguasaan terhadap Jetpack juga sudah menjadi kewajiban untuk mengoptimalkan proses mengembangkan aplikasi Android.\n\nKurikulum Android Developer di Dicoding telah dikembangkan langsung dengan Google menggunakan kurikulum resmi Google Developers. Setiap langkah dalam learning path ini telah didesain agar dapat mempersiapkan siswa mengambil ujian sertifikasi Associate Android Developer dari Google.",
+        "totalkelas": 6
+    },
+    {
+        "thumbnail": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/ios_developer_logo_160920145811.png",
+        "title": "iOS Developer",
+        "description": "Kurikulum disusun oleh Dicoding dan pelaku industri di bidang iOS Development. Siswa dipersiapkan untuk menjadi iOS Developer sesuai standar kebutuhan industri",
+        "konten":"Seorang iOS Developer adalah Software Developer yang berspesialisasi dalam merancang dan membangun aplikasi untuk pasar operating system iOS. Menurut Apple, sebagai pemilik dari iOS, seorang iOS Developer harus memiliki keahlian dalam bahasa pemrograman Swift dan SwiftUI pada IDE Xcode. Seorang iOS Developer harus mampu integrasikan teknologi mutakhir dari iOS untuk menciptakan pengalaman luar biasa pada aplikasinya.\n\nKurikulum iOS Developer di Dicoding telah dikembangkan dengan pelaku industri yang bergerak di bidang iOS Development. Setiap langkah dalam learning path ini telah didesain agar siswa dapat memiliki pengetahuan yang cukup untuk menjadi seorang iOS Developer yang dapat memenuhi kebutuhan industri.",
+        "totalkelas": 5
+    },
+    {
+        "thumbnail": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/front_end_web_developer_logo_160920145759.png",
+        "title": "Front-End Web Developer",
+        "description": "Kurikulum disusun oleh Dicoding dan pelaku industri di bidang Web Development. Siswa dipersiapkan untuk menjadi Front-End Web Developer sesuai standar kebutuhan industri",
+        "konten":"Seorang Front-End Web Developer adalah Software Developer yang bertanggung jawab untuk merancang dan membangun berbagai aplikasi web secara responsif, interaktif, dan juga user friendly. Seorang Front-End Web Developer memiliki peranan besar dalam pengembangan aplikasi web karena bertanggung jawab langsung kepada pengalaman pengguna. Di sini Anda akan diajarkan mulai dari dasar seperti pengenalan HTML, CSS kemudian menyusun layout yang responsif dengan Flexbox. Lalu Anda juga akan belajar cara membangun website dengan UI yang interaktif dan menghubungkan website dengan back-end server yang keduanya dilakukan menggunakan JavaScript. Hingga Anda akan belajar bagaimana cara membuat website yang dapat diakses secara offline dengan menerapkan Service Worker.\n\nKurikulum Front-End Web Developer di Dicoding telah dikembangkan dengan pelaku industri yang bergerak di bidang Web Development. Setiap langkah dalam learning path ini telah didesain agar siswa dapat memiliki pengetahuan yang cukup untuk menjadi seorang Front-End Web Developer yang dapat memenuhi kebutuhan industri.",
+        "totalkelas": 4
+    },
+    {
+        "thumbnail": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/back_end_developer_logo_030321113856.png",
+        "title": "Back-End Developer",
+        "description": "Kurikulum disusun oleh Dicoding bersama AWS beserta pelaku industri Back-End Development. Siswa dipersiapkan untuk menjadi Back-End Developer sesuai kebutuhan industri",
+        "konten":"Seorang Back-End Developer adalah Software Developer yang bertanggung jawab dalam mengelola server, aplikasi, dan database agar dapat saling berkomunikasi dengan baik dan lancar. Seorang Back-End Developer memiliki peranan yang sangat penting karena dengan Back-End lah suatu aplikasi Front-End dapat berjalan dengan semestinya. Pada learning path ini, Anda akan belajar mulai dasar pembuatan RESTful API; menggunakan teknologi database, storage, message broker, authentication dan authorization; hingga mempelajari konsep expert dalam mengembangkan RESTful API seperti Clean Architecture, Serverless, Container, dan CI/CD.\n\nKurikulum Back-End Developer di Dicoding telah dikembangkan bersama AWS dan pelaku industri yang bergerak di bidang Back-End Development. Setiap langkah dalam learning path ini telah didesain agar siswa dapat memiliki pengetahuan yang cukup untuk menjadi seorang Back-End Developer.",
+        "totalkelas": 6
+    },
+    {
+        "thumbnail": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/multi_platform_app_developer_logo_160920150014.png",
+        "title": "Multi-Platform App Developer",
+        "description": "Kurikulum disusun oleh Dicoding bersama Google beserta pelaku industri Multi-Platform App Development. Siswa dipersiapkan untuk menjadi Multi-Platform App Developer sesuai standar kebutuhan industri",
+        "konten":"Seorang Multi-Platform Developer adalah Software Developer yang berspesialisasi dalam merancang dan membangun aplikasi yang dapat digunakan di berbagai sistem operasi populer seperti Android dan iOS. Menurut Google, sekarang standar industri sebagai developer Multi-Platform App adalah memiliki keahlian dalam framework Flutter. Flutter adalah toolkit UI Google untuk membuat aplikasi yang indah, yang dikompilasi secara native untuk seluler, web, dan desktop dari basis kode tunggal. Developer juga perlu memiliki kemampuan bahasa pemrograman Dart.\n\nKurikulum Flutter di Dicoding telah dikembangkan langsung dengan Google menggunakan kurikulum resmi Google Developers. Setiap langkah dalam learning path ini telah didesain agar siswa dapat memiliki pengetahuan yang cukup untuk menjadi seorang Multi-Platform Developer yang dapat memenuhi kebutuhan industri.",
+        "totalkelas": 5
+    }
+]
